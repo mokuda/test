@@ -1,5 +1,4 @@
 test
 X(
-fuck
-this shit
+fuck this shit
 ====
